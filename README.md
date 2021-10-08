@@ -12,9 +12,9 @@ Managers serve their direct reports, and I am an avid supporter of "servant lead
 
 2) I will always be honest.  In the long term we are all better off when we are candid and honest with each other.
 
-3) I'm not here to tell you what to do, I'm here to enable you to work effectively and help remove impediments that are preventing you from being your best work self
+3) Mistakes are expected, failure is learning, as long as you grow from failure and learn from your mistakes you are moving in the right direction.  The differences between an associate engineer and a senior engineer or manager is that the latter have had a lot more opportunities to fail, make mistakes, and learn from them.
 
-4) Mistakes are expected, failure is learning, as long as you grow from failure and learn from your mistakes you are moving in the right direction.  The differences between an associate engineer and a senior engineer or manager is that the latter have had a lot more opportunities to fail, make mistakes, and learn from them.
+4) Self-care is of the utmost importance for every individual.  Take care of yourself, and if there is ever anything you need from me or the company in that regard please do not hesitate to reach out.
 
 ## Availability
 
