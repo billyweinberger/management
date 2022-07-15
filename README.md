@@ -1,5 +1,3 @@
-# TODO - Update this to reflect new role, stay tuned :)
-
 # Welcome to the Team!
 
 ## What is the purpose of this?
